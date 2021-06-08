@@ -1,0 +1,11 @@
+C:\Users\DİZMAN\Source\Repos\login_islem\login_islem\obj\Debug\login_islem.csprojAssemblyReference.cache
+C:\Users\DİZMAN\Source\Repos\login_islem\login_islem\obj\Debug\login_islem.Form1.resources
+C:\Users\DİZMAN\Source\Repos\login_islem\login_islem\obj\Debug\login_islem.Properties.Resources.resources
+C:\Users\DİZMAN\Source\Repos\login_islem\login_islem\obj\Debug\login_islem.csproj.GenerateResource.cache
+C:\Users\DİZMAN\Source\Repos\login_islem\login_islem\obj\Debug\login_islem.csproj.CoreCompileInputs.cache
+C:\Users\DİZMAN\Source\Repos\login_islem\login_islem\bin\Debug\login_islem.exe.config
+C:\Users\DİZMAN\Source\Repos\login_islem\login_islem\bin\Debug\login_islem.exe
+C:\Users\DİZMAN\Source\Repos\login_islem\login_islem\bin\Debug\login_islem.pdb
+C:\Users\DİZMAN\Source\Repos\login_islem\login_islem\obj\Debug\login_islem.exe
+C:\Users\DİZMAN\Source\Repos\login_islem\login_islem\obj\Debug\login_islem.pdb
+C:\Users\DİZMAN\Source\Repos\login_islem\login_islem\obj\Debug\login_islem.Form2.resources
